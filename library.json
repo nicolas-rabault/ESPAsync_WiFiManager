@@ -54,6 +54,15 @@
                 "espressif8266",
                 "espressif32"
             ]
+        },
+        {
+            "owner": "devyte",
+            "name": "ESPAsyncDNSServer",
+            "version": "https://github.com/devyte/ESPAsyncDNSServer",
+            "platforms": [
+                "espressif8266",
+                "espressif32"
+            ]
         }
     ],
     "license": "MIT",
